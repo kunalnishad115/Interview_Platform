@@ -1,0 +1,2 @@
+t.c : 30.00 day 1 
+conversion of single domain command is : npm run start 
